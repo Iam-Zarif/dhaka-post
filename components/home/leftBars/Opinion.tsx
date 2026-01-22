@@ -11,6 +11,7 @@ const Opinion = () => {
         <div className="absolute left-0 top-0 h-full w-8 rounded-full bg-neutral-700" />
       </div>
 
+
       <div className="mt-5">
         {opinionItems.map((title, index) => (
           <div key={index}>
