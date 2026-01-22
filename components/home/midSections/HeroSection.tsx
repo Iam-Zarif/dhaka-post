@@ -13,7 +13,7 @@ const HeroSection = () => {
         height={600}
       />
 
-      <div className="bg-white relative min-h-64 lg:min-h-56  ">
+      <div className="bg-white relative min-h-72 lg:min-h-56  ">
         <div className="bg-white w-[94%] left-5 -top-14 absolute mx-auto  px-6 py-3">
           <p className="uppercase text-xs text-neutral-400">politics</p>
           <p className="text-[1.6rem] font-semibold mt-2">

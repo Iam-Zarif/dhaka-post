@@ -3,7 +3,7 @@ import Politics from "./Politics"
 
 const BusinessAndPolitics = () => {
   return (
-    <div className="flex mt-10 lg:mt-8 w-full gap-3 lg:gap-8">
+    <div className="flex mt-14 lg:mt-8 w-full gap-3 lg:gap-8">
       <Busniness/>
       <Politics/>
     </div>
