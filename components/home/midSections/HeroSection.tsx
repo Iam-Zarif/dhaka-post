@@ -19,7 +19,7 @@ const HeroSection = () => {
           <p className="text-[1.6rem] font-semibold mt-2">
             ‘Election was rigged’ says opposition, police confirm three dead
           </p>
-          <div className="flex items-center gap-4 text-xs mt-3">
+          <div className="flex flex-col lg:flex-row lg:items-center gap-1 lg:gap-4 text-xs mt-3">
             <p className="text-neutral-400 italic">
               by{" "}
               <span className="font-semibold text-neutral-800">JOHN DOE</span>{" "}
